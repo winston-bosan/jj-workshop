@@ -9,3 +9,6 @@ Maybe fill this out?
 * The best operating system is  linux 
 * The best text editor is helix
 * The best kind of phone is brick
+Some other changes
+
+This is ex4 stuff!!!
