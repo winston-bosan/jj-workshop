@@ -1,5 +1,7 @@
 Follow the instructions in the Google Slide
 
+Ex:q
+
 Make some changes to this file.
 
 Maybe fill this out?
@@ -12,3 +14,5 @@ Maybe fill this out?
 Some other changes
 
 This is ex4 stuff!!!
+
+Ex:7
